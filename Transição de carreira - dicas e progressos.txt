@@ -1,7 +1,7 @@
 Oi, seja bem vinda/o/e
 
-vou deixar aqui algumas dicas de como
-tenho realizado minha transição de carreira...
+vou deixar aqui umpouco sobre meu progresso no Bootcapm e
+algumas dicas de como tenho realizado minha transição de carreira...
 
 Meu nome é Andréa, graduada em Comunicação Social/Jornalismo (UFS),
 pós-graduanda em Gestão de Pessoas e Comportamento Organizacional (FSLF)
@@ -17,7 +17,9 @@ voltar a estudar e me especializar, iniciei a pós-graduação.
 
 Agora tenho sentido uma forte inclinação para me entrar de fato na área da TI
 que também sei que me fortalecerá ainda mais em meus conhecimentos e óbvio, me
-proporcionará novos e grandiosos aprendizados.
+proporcionará novos e grandiosos aprendizados. Consegui a oportunidade de
+participar desse Bootcamp do Decola Tech 2 edição, da Avanade e cada dia
+é um novo aprendizado que faz eu me sentir mais perto e mais incluída na TI.
 
 Sou apaixonada por tecnologia, e queria entender como funciona esse universo
 então, aqui estou eu, dando meus primeiros passos, me desafiando e me superando
@@ -25,7 +27,7 @@ a cada nova conquista e certificação.
 
 Poxa, eu falo pra caramba, né?
 
-Bom, vamos ao que tinha prometido. Abaixo segue umas indicações do que tenho
+Bom, vamos as dicas. Abaixo segue umas indicações do que tenho
 utilizado para trilhar esse caminho e me jogar de vez nessa área maravilhosa.
 
 - Pesquisas sobre a área
@@ -42,14 +44,12 @@ como a equipe inteira, todos atenciosos, cuidados e bem solicitos.
 - Cursos, Bootcamps, Workshops
 Além de fazer curos na DIO, eu participei de outros
 em páginas, programas diferentes e foi importante fazer cada um.
-Alguns que você pode buscar também são: WomakersCode, Recode, 
-Safernet Brasil, DigiGirlz...
 
 - Conexões
 Também fiz conexões com profissionais, estudantes e organizações
 da área, pois é uma forma de aprender mais, trocar experiências e 
 manter conexões que podem gerar parcerias futuras. Me concetei com 
-várias pessoas e empresas via LinkedIn, vou até deixar o meu aqui:
+várias pessoas e empresas via LinkedIn.
 
 - Leituras
 Fiz algumas voltadas para desenvolvimento pessoal e profissional,
@@ -60,7 +60,7 @@ e consciente.
 Indico:
 Livros: O poder do hábito, O Poder dos Quietos, Peça e será atendido, 
 O mundo de Sophia, O alquimista, Faça acontecer.
-Revistas: Época Negócios, Exame, Meio e Mensagem, Periódicos Acadêmicos.
+Revistas: Época Negócios, Exame, Periódicos Acadêmicos.
  
 -Curirosidade, disposição e objetividade
 Tenho notado que essas três linhas foram norteadoras para meu avanço
